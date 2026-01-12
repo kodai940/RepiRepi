@@ -1,7 +1,5 @@
 [<< Japanese](index)
 
-# RepiRepi
-
 ## Contact
 If you have any questions, please contact us at:
 nks.developer.7240@gmail.com
